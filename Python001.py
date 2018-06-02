@@ -9,3 +9,4 @@
 
 
 print('你好，请问你是谁？')
+print('welcome to python!')
